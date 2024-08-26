@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaogcr
 - 👀 I’m interested in study
-- 🌱 I’m currently learning potuguese
+- 🌱 I'm currently learning computer science
 - 💞️ I’m looking to collaborate with the college
 - ⚡ Fun fact: i like games.
 
