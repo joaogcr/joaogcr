@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Desafio P.I </title>
+</head>
+<body>
+
+<h1><b>CALCULADORA SIMPLES</b></h1>
+
+    <b>Insira dois números:</b>
+    <br> <br>
+
+    <b> Número 1: </b> <input id="ipt_n1"/>
+    <br>
+
+    <b> Número 2: </b> <input id="ipt_n2"/>
+    <br> <br>
+
+    <b>Escolha a operação a ser realizada:</b>
+    <br> <br>
+
+<button onclick="Multiplicar()">Mutiplicação</button>
+
+    <button onclick="Somar()">Soma</button>
+
+        <button onclick="Subtrair()">Subtração</button>
+
+            <button onclick="Dividir()">Divisão</button>
+
+<div id="div_mensagem"></div>
+
+</body>
+</html>
+
+<script>
+
+    function Multiplicar() {
+        var n1 = Number(ipt_n1.value);
+        var n2 = Number(ipt_n2.value);
+        var multiplicacao = n1 * n2;
+        div_mensagem.innerHTML = `<b> <p style="color: red;"> O resultado da multiplicação é ${multiplicacao} </p> </b>`;
+        }
+
+    function Somar() {
+        var n1 = Number(ipt_n1.value);
+        var n2 = Number(ipt_n2.value);
+        var soma = n1 + n2;
+        div_mensagem.innerHTML = `<b> <p style="color: red;"> O resultado da soma é ${soma} </p> </b>`;
+        }
+
+    function Subtrair() {
+        var n1 = Number(ipt_n1.value);
+        var n2 = Number(ipt_n2.value);
+        var subtracao = n1 - n2;
+        div_mensagem.innerHTML = `<b> <p style="color: red;"> O resultado da subtração é ${subtracao} </p> </b>`;
+        }
+
+    function Dividir() {
+        var n1 = Number(ipt_n1.value);
+        var n2 = Number(ipt_n2.value);
+        var divisao = n1 / n2;
+        div_mensagem.innerHTML = `<b> <p style="color: red;"> O resultado da divisão é ${divisao} </p> </b>`;
+        }
+
+</script>
