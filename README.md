@@ -5,7 +5,7 @@
 
 - 🌱 Sigo aprimorando minhas habilidades **com HTML, CSS, JavaScript, Node.JS, MySQL, metologia Scrum e documentações baseadas no PMBOK**
 
-- 👨‍💻 Também estou trabalhando individualmente no [NutriLab 🔥](https://github.com/souMarioJunior/Anfield-Side)
+- 👨‍💻 Também estou trabalhando individualmente no [NutriLab 🔥]([https://github.com/joaogcr/Parkwise.git])
 
 - 🤝 Conheça mais sobre a [São Paulo Tech School](https://info.sptech.school/)
 
