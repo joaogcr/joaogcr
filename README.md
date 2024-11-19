@@ -28,6 +28,18 @@
 <h2 align="left">E aí! 👋, Me chamo João Gabriel</h2>
 <h3 align="center">Sou estudante de Ciência da Computação com Ênfase em Ciência de Dados na São Paulo Tech School.</h3>
 
+- 📈 Estou trabalhando em equipe no projeto [ParkWise 🌡](https://github.com/joaogcr/Parkwise.git)
+
+- 🌱 Sigo aprimorando minhas habilidades **com HTML, CSS, JavaScript, Node.JS, MySQL, metologia Scrum e documentações baseadas no PMBOK**
+
+- 👨‍💻 Também estou trabalhando individualmente no [NutriLab 🔥](https://github.com/joaogcr/NutriLab.git)
+
+- 🤝 Conheça mais sobre a [São Paulo Tech School](https://info.sptech.school/)
+
+- 💬 Estou estudando em meus projetos a integração do **Chart.JS e Web Data Viz**
+
+- 📫 Você pode entrar em contato comigo por **joao.nribeiro@sptech.school**
+
 ###
 
 <div align="center">
