@@ -2,7 +2,7 @@
 <h2 align="left">E aí! 👋, Me chamo João Gabriel</h2>
 <h3 align="center">Sou estudante de Ciência da Computação com Ênfase em Ciência de Dados na São Paulo Tech School.</h3>
 
-- 🌱 Sigo aprimorando minhas habilidades **com HTML, CSS, JavaScript, Node.JS, MySQL, metologia Scrum e documentações baseadas no PMBOK**
+- 🌱 Sigo aprimorando minhas habilidades **com Java, Python, AWS, MySQL, metologia Scrum e documentações baseadas no PMBOK**
 
 - 👨‍💻 Estou trabalhando individualmente no [NutriLab 🔥](https://github.com/joaogcr/NutriLab.git)
 
