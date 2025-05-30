@@ -4,7 +4,7 @@
 
 - 🌱 Sigo aprimorando minhas habilidades **com Java, Python, AWS, MySQL, metodologia Scrum e documentações baseadas no PMBOK**
 
-- 👨‍💻 Estou trabalhando individualmente no [NutriLab 🔥](https://github.com/joaogcr/NutriLab.git)
+- 👨‍💻 Estou trabalhando coletivamente no projeto [AllSet 🔥]([https://github.com/joaogcr/NutriLab.git](https://github.com/felipesmithdev/AllSet.git))
 
 - 🤝 Conheça mais sobre a [São Paulo Tech School](https://info.sptech.school/)
 
